@@ -1,13 +1,13 @@
 {
-    "spider": "http://我不是.肥猫.love:63/Jar/pandaQ231018.jar;md5;02b9d5f7c9cd21db0c114c701b6e2efb"    ,
+    "spider": "https://jihulab.com/883/8/-/raw/main/jar/jar.php?inline=false"    ,
   
-"wallpaper": "https://github.com/zhyoxi/KDS/blob/main/%E5%85%89%E5%BD%B1.jpg",
+"wallpaper": "https://jihulab.com/883/8/-/raw/main/wallpaper/%E7%BA%BF%E6%9D%A12.jpg?inline=false",
 
     "lives": [
-    {
+        {
       "name": "live",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
+      "url": "https://jihulab.com/883/8/-/raw/main/zb/zb.txt?inline=false",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -17,14 +17,23 @@
 
     "sites": [
 
+    
+      
+
+
  {
+   //{      "key": "宇宙超清",      "name": "潮盒4K",      "type": 1,      "api": "http://ys.yuzhoukeji.top/api.php/provide/vod/?ac=list",       "jar": " https://jihulab.com/883/8/-/raw/main/jar/nf.jar?inline=false",      "playerType": 1,      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+       // {      "key": "宇宙影视",      "name": "潮盒影视",      "type": 1,      "api": "https://yzys.yuzhoukeji.top/api.php/provide/vod/?ac=list",       "jar": " https://jihulab.com/883/8/-/raw/main/jar/nf.jar?inline=false",      "playerType": 1,      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },
+    //{      "key": "csp_Nmys",      "name": "潮盒备用",      "type": 3,      "api": "csp_Nmys",      "ext": "https://jihulab.com/883/8/-/raw/main/json/nmys.json?inline=false",       "jar": " https://jihulab.com/883/8/-/raw/main/jar/nf.jar?inline=false",    },
+
+
       "key": "csp_戏曲",
       "name": "🅱┃潮剧┃",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
-      "ext": "https://raw.githubusercontent.com/zhyoxi/KDS/main/%E6%88%8F%E6%9B%B2.json"
+           "ext": "https://jihulab.com/883/8/-/raw/main/lib/戏曲.json?inline=false"
     }
  
       
